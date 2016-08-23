@@ -1,1 +1,29 @@
-/* Pon tu código css aqui */
+.caja{
+	width: 180px;
+	height: 120px;
+	float: right;
+}
+.amarilla{
+	background-color: yellow;
+
+
+}
+
+.azul{
+	background-color: blue;
+
+}
+
+.roja{
+	background-color: red;
+}
+.contenedor{
+	border: 1px solid black;
+
+}
+
+.contenedor:after{
+	clear:both;
+	content: "";
+	display: block;
+}

@@ -17,3 +17,7 @@
 .roja{
 	background-color: red;
 }
+
+.contenedor{
+	border:1px solid black;
+}
